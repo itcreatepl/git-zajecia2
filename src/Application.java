@@ -8,6 +8,8 @@ public class Application {
 
         System.out.println("dsadasdasd");
 
+        System.out.println("tera");
+
 
     }
 }
