@@ -10,8 +10,6 @@ public class Application {
 
         System.out.println("tera");
         System.out.println("nowy branch");
-        System.out.println("Zmina");
-        System.out.println("sdsadsad");
 
 
 
